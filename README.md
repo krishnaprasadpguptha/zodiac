@@ -4,7 +4,7 @@
 ![Libra Queue Handler](https://github.com/nikkh/zodiac/workflows/Libra%20Queue%20Handler/badge.svg)
 ![Virgo Queue Handler](https://github.com/nikkh/zodiac/workflows/Virgo%20Queue%20Handler/badge.svg)
 
-# zodiac
+# zodiac 
 Zodiac is a microservices application that exists solely to generate telemetry for understanding and demonstrating Microsoft Application Insights.  
 
 ![zodiac architecture](docs/zodiac-architecture.jpg)
